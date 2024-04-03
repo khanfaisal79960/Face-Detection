@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/khanfaisal79960/face-detection/image?description=1&amp;descriptionEditable=Detect%20Faces%20in%20Images&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">This project showcases the power of computer vision and machine learning in automating the analysis of visual data offering valuable applications in diverse fields such as security social media and human-computer interaction.</p>
+<p id="description">This project aims to develop a face detection system using computer vision techniques. The goal is to detect human faces in images or video streams accurately and efficiently.</p>
 
 <h2>🚀 Demo</h2>
 
